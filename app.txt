@@ -1,1 +1,1 @@
-Bad version
+version 2
